@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexEMM" version="3.1.0" build="0">
+        <info>0.EMM企业移动管理授权插件</info>
+    </plugin>
+</uexplugins>

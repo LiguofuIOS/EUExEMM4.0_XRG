@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin name="uexEMM">
+        <method name="getLoginProperty"></method>
+        <method name="login"></method>
+        <method name="ssoLogin"></method>
+        <method name="bindUserRelation"></method>
+        <method name="validateCode"></method>
+        <method name="boundOtherInfo"></method>
+        <method name="validateBindCode"></method>
+        <method name="getVerificationImage"></method>
+        <method name="logout"></method>
+        <method name="setEvent"></method>
+        <method name="beginEvent"></method>
+        <method name="endEvent"></method>
+        <method name="updateParams"></method>
+        <method name="getDisablePlugins"></method>
+        <method name="getDisableWindows"></method>
+        <method name="getAccessToken"></method>
+        <method name="removeAcessToken"></method>
+        <method name="fileEncrypt"></method>
+        <method name="fileDecrypt"></method>
+        <method name="getWidgetInfo"></method>
+        <method name="getWidgetReportResult"></method>
+        <method name="getSoftToken"></method>
+        <method name="changePassword"></method>
+        <method name="queryUserCertFile"></method>
+        <method name="regist"></method>
+        <method name="widgetStartReport"></method>
+        <method name="setErrorReport"></method>
+    </plugin>
+</uexplugins>
+    
+    
